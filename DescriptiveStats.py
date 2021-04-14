@@ -1,7 +1,9 @@
-
-
-
-
+#**********************************************************************#
+# Title:                     Descriptive Stats                         #
+# Description :              This class is for descriptive statistics  #
+# Author:                    Pfarelo Raliphada                         #
+# Date:                      13 April 2021                             #
+#**********************************************************************#
 
 from typing import List
 class DescriptiveStats:
